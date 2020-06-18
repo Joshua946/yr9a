@@ -1,0 +1,20 @@
+<h2>siringe</h2>
+<main>
+  <p>Click here to view more <a href="#">syringe</a>.</p>
+
+  <a href="#"><img src="https://media.rs-online.com/t_large/F7682328-01.jpg"></a>
+
+  <p>how we have changed it:</p>
+  <ul>
+    <li>added a handle</li>
+    <li>made it easier to use</li>
+    <li>made it eisier for the handle to go down</li>
+  </ul>
+  <p>how this will help:</p>
+  <ol>
+    <li>eisier to hold</li>
+    <li>eisier to move</li>
+    <li>better grip</li>
+  </ol>
+  <input type="text">
+</main>
